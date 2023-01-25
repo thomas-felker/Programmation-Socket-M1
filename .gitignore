@@ -1,0 +1,4 @@
+client/.vs
+server/.vs
+server/server/bin
+server/server/obj/Debug

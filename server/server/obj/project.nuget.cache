@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "twhEyL/+K3uAsM++ckaQ0HT9qepVBu1ZJcWs9ame0Lr6LfqnCClLp++2D2x5AkJGa9plE5dfz1QrlYATEq4lwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\etudiant\\OneDrive\\Documents\\GitHub\\SocketProgrammingProject\\server\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etudiant\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\etudiant\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
